@@ -1,5 +1,6 @@
 const config = {
   MAX_ATTACHMENT_SIZE: 5000000,
+  STRIPE_KEY: "pk_test_51I2mQzDqBjx2Hz32E4G940xJwivFimH4OJKme7pkUVQmw1nXYa5NnhyUvfyzPawzcpi4aLDd5embwQwuhkHeblff00gmCRL8fW",
   s3: {
     REGION: "us-east-2",
     BUCKET: "shopping-buddy-upload",
